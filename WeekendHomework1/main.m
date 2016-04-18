@@ -59,7 +59,6 @@ void palindrome(){
         for (int n2 = 0; n2 < 1000; n2++); {
             [reversedString setString:@""];
             result = n1 * n2;
-            reversedString = [NString stringWithFormat: @"%d"];
         //Need helpf from this point 
         }
     }
