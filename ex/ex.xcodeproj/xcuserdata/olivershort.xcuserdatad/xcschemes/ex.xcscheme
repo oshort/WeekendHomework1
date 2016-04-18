@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7BD30AAF1CC00875008D602A"
-               BuildableName = "WeekendHomework1"
-               BlueprintName = "WeekendHomework1"
-               ReferencedContainer = "container:WeekendHomework1.xcodeproj">
+               BlueprintIdentifier = "7BD30AC21CC12C64008D602A"
+               BuildableName = "ex.app"
+               BlueprintName = "ex"
+               ReferencedContainer = "container:ex.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7BD30AAF1CC00875008D602A"
-            BuildableName = "WeekendHomework1"
-            BlueprintName = "WeekendHomework1"
-            ReferencedContainer = "container:WeekendHomework1.xcodeproj">
+            BlueprintIdentifier = "7BD30AC21CC12C64008D602A"
+            BuildableName = "ex.app"
+            BlueprintName = "ex"
+            ReferencedContainer = "container:ex.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7BD30AAF1CC00875008D602A"
-            BuildableName = "WeekendHomework1"
-            BlueprintName = "WeekendHomework1"
-            ReferencedContainer = "container:WeekendHomework1.xcodeproj">
+            BlueprintIdentifier = "7BD30AC21CC12C64008D602A"
+            BuildableName = "ex.app"
+            BlueprintName = "ex"
+            ReferencedContainer = "container:ex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7BD30AAF1CC00875008D602A"
-            BuildableName = "WeekendHomework1"
-            BlueprintName = "WeekendHomework1"
-            ReferencedContainer = "container:WeekendHomework1.xcodeproj">
+            BlueprintIdentifier = "7BD30AC21CC12C64008D602A"
+            BuildableName = "ex.app"
+            BlueprintName = "ex"
+            ReferencedContainer = "container:ex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
