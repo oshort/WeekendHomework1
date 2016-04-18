@@ -49,12 +49,18 @@ void fizzBuzz(){
 // A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99. Find the largest palindrome made from the product of two 3-digit numbers.
 
 void palindrome(){
+    int result = 0;
+    int stringResult = 0;
+    NSMutableString *reversedString = [[NSMutableString alloc]init];
+    NSMutableString *largestSumPalindrome =[[NSMutableString alloc]init];
+    NSString *resultSetAsString = @"";
     
-int value
-    
-    for (int i = 0, i < 1000, i++); {
-        for (int j = 0, j < 1000, j++); {
-            value = i * j;
+    for (int n1 = 0; n1 < 1000; n1++); {
+        for (int n2 = 0; n2 < 1000; n2++); {
+            [reversedString setString:@""];
+            result = n1 * n2;
+            reversedString = [NString stringWithFormat: @"%d"];
+        //Need helpf from this point 
         }
     }
 }
